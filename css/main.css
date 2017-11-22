@@ -1,0 +1,83 @@
+/*
+ * Estilos de tu proyecto
+ */
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+#contenedor{
+  background: purple;
+  width: 1366px;
+  height: 4000px;
+}
+/*#contenedor header #logo-lyft img{
+  margin-left: 80px;
+}
+/*  *{
+    margin: 0;
+    border: 0;
+    padding: 0;
+  }
+  #contenedor {
+    background: purple;
+    width: 1366px;
+    height: 3500px;
+  }
+  #contenedor header #bocina img{
+    width: 1366px;
+    height: 618px;
+    float: left;
+  }
+ /* header #logo-lyft{
+    background: #2B1E66;
+    width: 1366px;
+    height: 118px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  header #logo-lyft img{
+    width: 70px;
+    height: 40px;
+    margin-left: 80px;
+    margin-top: 40px;
+  }
+ /*header #menu{
+   background: black;
+   width: 450px;
+   height: 50px;
+   margin-right: 80px;
+   float: right;
+ }
+ header #menu .drive {
+   color: #fff;
+   margin-left: 10px;
+   margin-top: 12px;
+   font-family: Montserrat;
+   font-size: 18px;
+   float:left;
+ }
+ header #menu .explore{
+   color: #fff;
+   margin-left: 45px;
+   margin-top: 12px;
+   font-family: Montserrat;
+   font-size: 18px;
+   float: left;
+ }
+ header #menu .help{
+   color: #fff;
+   margin-left: 45px;
+   margin-top: 12px;
+   font-family: Montserrat;
+   font-size: 18px;
+   float: left;
+ }
+ header #menu .log-in{
+   color: #fff;
+   margin-left: 45px;
+   margin-top: 12px;
+   font-family: Montserrat;
+   font-size: 18px;
+   float: left;
+ }*/
